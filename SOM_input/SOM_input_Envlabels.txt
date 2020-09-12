@@ -1,0 +1,11 @@
+Lat
+Lon
+Elev
+Lakeareakm2
+CondµScm
+Zmax
+MEANCRU
+JulyCRU
+Prec
+MEAN
+SUMMER
